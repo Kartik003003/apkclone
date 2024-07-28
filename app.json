@@ -1,4 +1,11 @@
 {
   "name": "proboclone",
-  "displayName": "proboclone"
+  "displayName": "proboclone",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "caf1b6cc-98ee-4952-ae22-0e2417fdd8bb"
+      }
+    }
+  }
 }
